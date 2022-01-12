@@ -1,3 +1,3 @@
-this is My Portfolio website, dont with typescript using Next, Node
+this is My Portfolio website, done with typescript using Next, Node
 
 ## Under Construction...
